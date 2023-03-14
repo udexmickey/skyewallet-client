@@ -16,6 +16,6 @@ html, body, *, ::after, ::before{
 }
 
 html, body{
-  width: min(100vw, 1920px);
-  background-color: indigo;
+  width: var(--parent-width);
+  background-color: var(--parent-width);
 }

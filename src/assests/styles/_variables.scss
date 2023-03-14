@@ -11,13 +11,8 @@
   --active-link-background: #ffe22d;
   --active-link-color: #ffe22d;
   --link-color: #ffe22d;
-  --inflow-color: #ffe22d;
-  --outflow-color: #ffe22d;
+  --inflow-color: #8dbf41;
+  --outflow-color: #bf0404;
   --parent-width: min(100vw, 1920);
   --card-width: min(100vw, 400px);
-}
-
-.App {
-  text-align: center;
-  background-color: var(--nav-background);
 }
